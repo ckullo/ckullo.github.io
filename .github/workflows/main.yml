@@ -9,7 +9,7 @@ jobs:
         with: {submodules: recursive}
       - run: |
           mkdir -p public
-          cp -r sites/FeM-Responsive-3 public/FeM-Responsive-3
+          cp -r sites/fem-product-card public/fem-product-card
           touch public/.nojekyll
       - uses: actions/upload-pages-artifact@v3
         with: {path: public}
