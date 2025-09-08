@@ -1,3 +1,6 @@
 [submodule "fem-product-card"]
 	path = fem-product-card
 	url = https://github.com/ckullo/FeM-Responsive-3.git
+[submodule "recipe-page-main"]
+	path = recipe-page-main
+	url = https://github.com/ckullo/recipe-page-main.git
