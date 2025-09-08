@@ -4,3 +4,6 @@
 [submodule "recipe-page-main"]
 	path = recipe-page-main
 	url = https://github.com/ckullo/recipe-page-main.git
+[submodule "FeM-Feature-Card"]
+	path = FeM-Feature-Card
+	url = https://github.com/ckullo/FeM-Feature-Card.git
